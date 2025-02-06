@@ -84,7 +84,7 @@ ta==0.10.2
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/spoorthi221/Valueinvesting.git
 ```
 
 2. Install requirements:
