@@ -115,8 +115,8 @@ MIT
 
 ## Contact
 
-[Your Name] - [Your Email]
-Project Link: [repository-url]
+Spoorthi Veeresh Kumar
+spoorthiv20@gmail.com
 
 ## Acknowledgments
 
